@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Educator WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-14 04:52-0500\n"
+"PO-Revision-Date: 2015-04-14 04:52-0500\n"
+"Last-Translator: Dima\n"
+"Language-Team: English <contact@incrediblebytes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive-ib_educator_course.php:23 ../archive-ib_educator_course.php:45
+#: ../author.php:94 ../taxonomy-ib_educator_category.php:23
+#: ../taxonomy-ib_educator_category.php:45
+msgid "No courses found."
+msgstr ""
+
+#: ../archive-ib_educator_lesson.php:22 ../archive-ib_educator_lesson.php:43
+msgid "No lessons found."
+msgstr ""
+
+#: ../author.php:22
+msgid "Lecturer Profile"
+msgstr ""
+
+#: ../author.php:24
+msgid "Author Profile"
+msgstr ""
+
+#: ../author.php:48 ../include/customizer.php:1339
+msgid "Posts"
+msgstr ""
+
+#: ../author.php:49 ../include/customizer.php:1338
+#: ../include/template-tags.php:128 ../templates/user.php:69
+msgid "Courses"
+msgstr ""
+
+#: ../author.php:96
+msgid "No posts found."
+msgstr ""
+
+#: ../comments.php:17
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:24 ../comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:25 ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:26 ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-grid.php:14
+msgid "This post is password protected."
+msgstr ""
+
+#: ../content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: ../content-none.php:7
+msgid "Get started here"
+msgstr ""
+
+#: ../content-none.php:14 ../content-none.php:23
+msgid "Not Found"
+msgstr ""
+
+#: ../content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-single.php:6 ../include/template-tags.php:214
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:23 ../page.php:16 ../templates/full-width.php:20
+#: ../templates/wide.php:19
+msgid "Pages:"
+msgstr ""
+
+#: ../functions.php:54
+msgid "Top primary menu"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Logged in user menu"
+msgstr ""
+
+#: ../functions.php:56
+msgid "Footer menu"
+msgstr ""
+
+#: ../functions.php:86
+msgid "Grid"
+msgstr ""
+
+#: ../functions.php:87
+msgid "Main Column"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:140
+msgid "The page sidebar."
+msgstr ""
+
+#: ../functions.php:160
+#, php-format
+msgid "Footer Column %d"
+msgstr ""
+
+#: ../functions.php:162
+msgid "The widgets in the page footer."
+msgstr ""
+
+#: ../functions.php:311
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:355
+#, php-format
+msgid ""
+"<strong>An update to the theme is available!</strong> The version of "
+"installed theme is %s. The latest version is %s."
+msgstr ""
+
+#: ../functions.php:356
+msgid "Could not check for the theme update."
+msgstr ""
+
+#: ../header.php:96
+msgid "Log Out"
+msgstr ""
+
+#: ../header.php:107
+msgid "Search..."
+msgstr ""
+
+#: ../single-ib_educator_lesson.php:23
+msgid "Lessons"
+msgstr ""
+
+#: ../single-ib_educator_lesson.php:37 ../single-ib_educator_lesson.php:43
+msgid "Quiz"
+msgstr ""
+
+#: ../ibeducator/content-membership.php:35
+msgid "Purchase"
+msgstr ""
+
+#: ../ibeducator/shortcode-memberships.php:50
+msgid "No memberships found."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:161 ../include/plugins.php:95
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:162 ../include/plugins.php:96
+msgid "Install Plugins"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:163 ../include/plugins.php:97
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:165 ../include/plugins.php:99
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:166 ../include/plugins.php:100
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:167 ../include/plugins.php:101
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:168 ../include/plugins.php:102
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:169 ../include/plugins.php:103
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:170 ../include/plugins.php:104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:171 ../include/plugins.php:105
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:172 ../include/plugins.php:106
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:173 ../include/plugins.php:107
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:174 ../include/plugins.php:108
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:175 ../include/plugins.php:109
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:177
+#: ../include/class-tgm-plugin-activation.php:1945 ../include/plugins.php:110
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:178
+#: ../include/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:534
+#: ../include/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1290
+#: ../include/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1312
+#: ../include/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2059
+#: ../include/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2059
+#: ../include/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../include/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/customizer.php:214
+msgid "General"
+msgstr ""
+
+#: ../include/customizer.php:215
+msgid "General theme settings."
+msgstr ""
+
+#: ../include/customizer.php:236
+msgid "Logo"
+msgstr ""
+
+#: ../include/customizer.php:260
+msgid "Logo 2x"
+msgstr ""
+
+#: ../include/customizer.php:283
+msgid "Logo Max Height"
+msgstr ""
+
+#: ../include/customizer.php:304
+msgid "Theme Updates Notifications"
+msgstr ""
+
+#: ../include/customizer.php:308
+msgid ""
+"The theme will check incrediblebytes.com for updates. If there is an update "
+"available, it will display an admin notice."
+msgstr ""
+
+#: ../include/customizer.php:333
+msgid "Font Settings"
+msgstr ""
+
+#: ../include/customizer.php:334
+msgid "Google fonts settings."
+msgstr ""
+
+#: ../include/customizer.php:353
+msgid "Headings Font"
+msgstr ""
+
+#: ../include/customizer.php:376
+msgid "Body Font"
+msgstr ""
+
+#: ../include/customizer.php:399
+msgid "Character Sets"
+msgstr ""
+
+#: ../include/customizer.php:422
+msgid "Font Size"
+msgstr ""
+
+#: ../include/customizer.php:450
+msgid "Headings Font Weight"
+msgstr ""
+
+#: ../include/customizer.php:473
+msgid "Bold Text Font Weight"
+msgstr ""
+
+#: ../include/customizer.php:495
+msgid "Header Settings"
+msgstr ""
+
+#: ../include/customizer.php:514
+msgid "Fixed Header"
+msgstr ""
+
+#: ../include/customizer.php:535
+msgid "Show the Log in/Register Links in the Main Menu"
+msgstr ""
+
+#: ../include/customizer.php:548
+msgid "Toolbar Settings"
+msgstr ""
+
+#: ../include/customizer.php:567
+msgid "Enable Toolbar"
+msgstr ""
+
+#: ../include/customizer.php:589
+msgid "Toolbar Text"
+msgstr ""
+
+#: ../include/customizer.php:611
+msgid "Links to Social Networks"
+msgstr ""
+
+#: ../include/customizer.php:615
+#, php-format
+msgid ""
+"List the names of the social networks. The names must be separated by "
+"spaces. Available social networks: %s"
+msgstr ""
+
+#: ../include/customizer.php:634
+msgid "Facebook URL"
+msgstr ""
+
+#: ../include/customizer.php:656
+msgid "Google+ URL"
+msgstr ""
+
+#: ../include/customizer.php:678
+msgid "Twitter URL"
+msgstr ""
+
+#: ../include/customizer.php:700
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../include/customizer.php:722
+msgid "Youtube URL"
+msgstr ""
+
+#: ../include/customizer.php:744
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../include/customizer.php:766
+msgid "Instagram URL"
+msgstr ""
+
+#: ../include/customizer.php:788
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../include/customizer.php:810
+msgid "Vk URL"
+msgstr ""
+
+#: ../include/customizer.php:824
+msgid "Page Layouts"
+msgstr ""
+
+#: ../include/customizer.php:825
+msgid "Select layouts for various pages of your website."
+msgstr ""
+
+#: ../include/customizer.php:844
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../include/customizer.php:849
+msgid "Right"
+msgstr ""
+
+#: ../include/customizer.php:850
+msgid "Left"
+msgstr ""
+
+#: ../include/customizer.php:869
+msgid "Blog Layout"
+msgstr ""
+
+#: ../include/customizer.php:874 ../include/customizer.php:900
+msgid "List with sidebar"
+msgstr ""
+
+#: ../include/customizer.php:875 ../include/customizer.php:901
+msgid "Grid with sidebar"
+msgstr ""
+
+#: ../include/customizer.php:876 ../include/customizer.php:902
+msgid "Grid without sidebar"
+msgstr ""
+
+#: ../include/customizer.php:895
+msgid "Courses Layout"
+msgstr ""
+
+#: ../include/customizer.php:925
+msgid "Main Color"
+msgstr ""
+
+#: ../include/customizer.php:949
+msgid "Hover Color"
+msgstr ""
+
+#: ../include/customizer.php:973
+msgid "Text Color"
+msgstr ""
+
+#: ../include/customizer.php:997
+msgid "Headings Color"
+msgstr ""
+
+#: ../include/customizer.php:1021
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../include/customizer.php:1025 ../include/customizer.php:1050
+msgid "Sub menu items, share buttons, etc."
+msgstr ""
+
+#: ../include/customizer.php:1046
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../include/customizer.php:1061
+msgid "Share Settings"
+msgstr ""
+
+#: ../include/customizer.php:1080
+msgid "Enable Share Buttons"
+msgstr ""
+
+#: ../include/customizer.php:1101
+msgid "Share buttons"
+msgstr ""
+
+#: ../include/customizer.php:1105
+#, php-format
+msgid ""
+"List the names of the share buttons you would like to use. The names must be "
+"separated by spaces. Available share buttons: %s"
+msgstr ""
+
+#: ../include/customizer.php:1123
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../include/customizer.php:1127
+msgid "This ID is required to create a Facebook share link."
+msgstr ""
+
+#: ../include/customizer.php:1145
+msgid "Twitter via"
+msgstr ""
+
+#: ../include/customizer.php:1149
+msgid "Your twitter screen name."
+msgstr ""
+
+#: ../include/customizer.php:1159
+msgid "Log in/register"
+msgstr ""
+
+#: ../include/customizer.php:1178
+msgid "Log In Page"
+msgstr ""
+
+#: ../include/customizer.php:1200
+msgid "Register Page"
+msgstr ""
+
+#: ../include/customizer.php:1222
+msgid "Profile"
+msgstr ""
+
+#: ../include/customizer.php:1236
+msgid "Footer Settings"
+msgstr ""
+
+#: ../include/customizer.php:1255
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: ../include/customizer.php:1276
+msgid "Footer Layout"
+msgstr ""
+
+#: ../include/customizer.php:1281
+msgid "3 columns"
+msgstr ""
+
+#: ../include/customizer.php:1282
+msgid "4 columns"
+msgstr ""
+
+#: ../include/customizer.php:1301
+msgid "Footer Copyright Notice"
+msgstr ""
+
+#: ../include/customizer.php:1305
+#, php-format
+msgid "You may use these HTML tags and attributes: %s"
+msgstr ""
+
+#: ../include/customizer.php:1314
+msgid "Advanced"
+msgstr ""
+
+#: ../include/customizer.php:1333
+msgid "Lecturer&apos;s profile link goes to"
+msgstr ""
+
+#: ../include/customizer.php:1358
+msgid "Disable the default lightbox"
+msgstr ""
+
+#: ../include/ibeducator.php:31
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../include/ibeducator.php:37
+#, php-format
+msgid "1 lesson"
+msgid_plural "%d lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/ibeducator.php:68
+msgid "Free"
+msgstr ""
+
+#: ../include/plugins.php:98
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../include/plugins.php:111
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../include/template-tags.php:54
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../include/template-tags.php:68
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../include/template-tags.php:101
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../include/template-tags.php:165
+#, php-format
+msgid "Page %d of %d"
+msgstr ""
+
+#: ../include/template-tags.php:240
+msgid "Share:"
+msgstr ""
+
+#: ../include/template-tags.php:254 ../include/template-tags.php:513
+#: ../include/widgets.php:22
+msgid "Facebook"
+msgstr ""
+
+#: ../include/template-tags.php:259 ../include/template-tags.php:514
+#: ../include/widgets.php:24
+msgid "Google+"
+msgstr ""
+
+#: ../include/template-tags.php:264 ../include/template-tags.php:515
+#: ../include/widgets.php:23
+msgid "Twitter"
+msgstr ""
+
+#: ../include/template-tags.php:272
+msgid "Share"
+msgstr ""
+
+#: ../include/template-tags.php:305
+msgid "Category"
+msgstr ""
+
+#: ../include/template-tags.php:321 ../include/template-tags.php:367
+msgid "All"
+msgstr ""
+
+#: ../include/template-tags.php:353
+msgid "Membership"
+msgstr ""
+
+#: ../include/template-tags.php:388
+#, php-format
+msgid "%d course(s)"
+msgstr ""
+
+#: ../include/template-tags.php:428
+msgid "Related Courses"
+msgstr ""
+
+#: ../include/template-tags.php:470 ../templates/login.php:25
+#: ../templates/register.php:25
+msgid "Log in"
+msgstr ""
+
+#: ../include/template-tags.php:471 ../templates/login.php:26
+#: ../templates/register.php:26 ../templates/register.php:49
+msgid "Register"
+msgstr ""
+
+#: ../include/template-tags.php:482
+msgid "Lecturer"
+msgstr ""
+
+#: ../include/template-tags.php:498
+msgid "View Profile"
+msgstr ""
+
+#: ../include/template-tags.php:516
+msgid "Linkedin"
+msgstr ""
+
+#: ../include/template-tags.php:517 ../include/widgets.php:25
+msgid "Youtube"
+msgstr ""
+
+#: ../include/template-tags.php:518 ../include/widgets.php:26
+msgid "Vimeo"
+msgstr ""
+
+#: ../include/template-tags.php:519
+msgid "Instagram"
+msgstr ""
+
+#: ../include/template-tags.php:520
+msgid "Pinterest"
+msgstr ""
+
+#: ../include/template-tags.php:521
+msgid "Vk"
+msgstr ""
+
+#: ../include/widgets.php:13
+msgid "Educator Theme Contact"
+msgstr ""
+
+#: ../include/widgets.php:15
+msgid "Use this widget to display your contact info."
+msgstr ""
+
+#: ../include/widgets.php:21 ../templates/register.php:44
+#: ../templates/user.php:179
+msgid "Email"
+msgstr ""
+
+#: ../include/widgets.php:109
+msgid "Title:"
+msgstr ""
+
+#: ../include/widgets.php:114
+msgid "Text:"
+msgstr ""
+
+#: ../include/widgets.php:128
+msgid "Order:"
+msgstr ""
+
+#: ../templates/login.php:56
+msgid "Lost your password?"
+msgstr ""
+
+#: ../templates/login.php:62 ../templates/register.php:61
+msgid "You are logged in."
+msgstr ""
+
+#: ../templates/login.php:62 ../templates/register.php:61
+msgid "Log out"
+msgstr ""
+
+#: ../templates/register.php:32
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: ../templates/register.php:39
+msgid "Username"
+msgstr ""
+
+#: ../templates/user.php:17
+msgid "Please log in to view this page."
+msgstr ""
+
+#: ../templates/user.php:18
+msgid "Log In"
+msgstr ""
+
+#: ../templates/user.php:117
+msgid "Invalid email"
+msgstr ""
+
+#: ../templates/user.php:122
+msgid "This email is already registered"
+msgstr ""
+
+#: ../templates/user.php:127
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../templates/user.php:133
+msgid "Password must be at least 6 characters long"
+msgstr ""
+
+#: ../templates/user.php:141
+msgid "Profile has been updated."
+msgstr ""
+
+#: ../templates/user.php:163
+msgid "First Name"
+msgstr ""
+
+#: ../templates/user.php:171
+msgid "Last Name"
+msgstr ""
+
+#: ../templates/user.php:187
+msgid "About"
+msgstr ""
+
+#: ../templates/user.php:195
+msgid "New Password"
+msgstr ""
+
+#: ../templates/user.php:203
+msgid "Repeat New Password"
+msgstr ""
+
+#: ../templates/user.php:212
+msgid "Update Profile"
+msgstr ""

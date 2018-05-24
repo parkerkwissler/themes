@@ -1,0 +1,4 @@
+[06-Sep-2017 21:24:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfourteen/index.php on line 17
+[19-Oct-2017 16:22:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfourteen/index.php on line 17
+[19-Nov-2017 00:52:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfourteen/404.php on line 10
+[25-Jan-2018 12:24:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfourteen/404.php on line 10

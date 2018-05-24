@@ -1,0 +1,4 @@
+[09-Feb-2018 00:35:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/ib-educator/page.php on line 2
+[09-Feb-2018 00:35:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/ib-educator/page.php on line 2
+[19-Mar-2018 21:32:46 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/ib-educator/header.php on line 2
+[20-Mar-2018 19:33:45 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/ib-educator/header.php on line 2

@@ -1,0 +1,8 @@
+[25-Nov-2017 14:24:31 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 14:26:32 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 14:27:02 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[07-Dec-2017 17:58:03 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/404.php on line 10
+[09-Feb-2018 00:35:33 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/single.php on line 10
+[09-Feb-2018 00:35:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/single.php on line 10
+[10-Feb-2018 13:11:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/404.php on line 10
+[19-Mar-2018 10:09:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/kingkourt/public_html/rockingcafe.com/wp-content/themes/twentyfifteen/404.php on line 10
